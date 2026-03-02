@@ -1,0 +1,46 @@
+ body {
+            background-color: #e3ffff;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 12px;
+            text-align: justify;
+        }
+
+        #publish {
+            font-weight: bold;
+            font-size: 10px;
+        }
+
+        .judulgambar {
+            text-align: center;
+            font-size: 10px;
+        }
+
+        .judulberita {
+            text-align: center;
+            color: #2596be;
+            font-size: large;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 40px;
+            font-weight: bold;
+        }
+
+        .biaragaktengah {
+            margin-top: 100px;
+            margin-bottom: 100px;
+            margin-right: 150px;
+            margin-left: 80px;
+        }
+
+        .judulagaktengah {
+            margin-left: 60px;
+            margin-right: 60px;
+        }
+
+        .framegambar {
+            border-radius: 15px;
+        }
+
+        .medsos{
+            color: #2596be;
+            font-size: 16px;
+        }
